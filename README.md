@@ -1,4 +1,5 @@
 # random-picker
+Don't know who will be the next one to answer a question?
 
 ## frontend-starter-kit
 > Simple starter kit boilerplate based on Webpack, SASS and Bootstrap 5 (alpha)
